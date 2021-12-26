@@ -10,5 +10,11 @@
 First, run the development server:
 
 ```bash
-npm degit hobbytes-dev/next-tailwind
+npx degit hobbytes-dev/next-tailwind <APP NAME>
+```
+
+//
+
+```bash
+npm create-next-app --example hobbytes-dev/next-tailwind <APP NAME>
 ```
