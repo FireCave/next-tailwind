@@ -3,7 +3,6 @@
 - TypeScript
 - ESLint
 - Prettier
-- TailwindCSS
 
 ## Getting Started
 
