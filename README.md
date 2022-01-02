@@ -1,6 +1,5 @@
 # NextJS Template with following integrations
 
-- TypeScript
 - ESLint
 - Prettier
 - TailwindCSS
