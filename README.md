@@ -4,6 +4,7 @@
 - ESLint
 - Prettier
 - TailwindCSS
+- PWA with "next-pwa" (workbox)
 
 ## Getting Started
 
